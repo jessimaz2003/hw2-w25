@@ -2,7 +2,7 @@ body {
    font-family: Arial, Verdana; 
    background-color: #000000;
    color: #ffffff;
-   margin: 20px 20px 0px;
+   margin: 20px;
 }
 h1{
     font-size: 42px;
@@ -52,10 +52,10 @@ div{
     border-right: 5px solid #FFFFFF;
     border-top: 2px solid #FFFFFF;
 }
-
-.blue h1, .blue h2 {
+.blue h2 {
     color: #C4C4C4; 
 }
+
 .green {
     background-color: #008500; 
     text-align: left;
